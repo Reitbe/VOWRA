@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 54e794307b430f64e8815317b78f0fd0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - delBtPrefab: {fileID: 9191561094217374348, guid: d025565d37001a84f9a857e5b7ef0e9b, type: 3}
+  - copyBtPrefab: {fileID: 7905004171594396187, guid: 1d33d9216e4a04a498385e5737eb03c8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
